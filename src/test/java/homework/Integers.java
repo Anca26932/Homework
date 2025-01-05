@@ -1,4 +1,4 @@
-package integers;
+package homework;
 
 import org.testng.annotations.Test;
 
