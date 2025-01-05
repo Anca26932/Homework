@@ -1,4 +1,4 @@
-package Double;
+package homework;
 
 public class Double {
 }
